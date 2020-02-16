@@ -1,2 +1,2 @@
 # Logistic-Regression-for-Loan-Prediction-III
-Logistic Regression for Loan Prediction II
+Logistic Regression for Loan Prediction III
